@@ -6,8 +6,6 @@ eLearning Source Code
 
 1)About us description
 
-2)About us
-
 3)courses category photo of online marketing(index.html, courses.html)
 
 4)Expert instructor name change (aboutus.html, index.html, pages(our team),)
