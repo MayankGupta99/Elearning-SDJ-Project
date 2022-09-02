@@ -3,24 +3,13 @@ eLearning Source Code
 
 ### TODO
 
-Scroll text change
 
-About us
+1)About us description
 
-courses category photo of online marketing(index.html, courses.html)
+2)About us
 
-currency change *
+3)courses category photo of online marketing(index.html, courses.html)
 
-Expert instructor name change (aboutus.html, index.html, pages(our team),)
+4)Expert instructor name change (aboutus.html, index.html, pages(our team),)
 
-Our student say container change details(pages(testimonial))
-
-footer change (gallery remove)
-
-contact us(footer, contactus page)
-
-#When anything from this is done, please remove the todo line
-
-#One person is allowed to do only one todo item
-
-#Submit before 2nd of September
+5)Our student say container change details(pages(testimonial))
